@@ -1,4 +1,4 @@
-// Exercicio 07_28
+// Simpletron
 // Implementa um computador de arquitetura simples chamada Simpletron. O computador tem um unico registrador de uso geral, o acumulador. 
 // Na configuração atual seu armazenamento tem espaço para 1000 dados/instruçoes de quatro digitos decimais. 
 // Há implementação de algumas verificações simples em tempo execução: Divisão por zero, overflow/underflow aritmético e codigos de operação inválidos.
